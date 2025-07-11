@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.36/5a30490a6e14977d97d9c73c924c1f1b5311ea95/lombok-1.18.36.jar" />
+        </processorPath>
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="allure" target="11" />
+      <module name="allure.main" target="11" />
+      <module name="allure.test" target="11" />
+      <module name="card-delivery" target="11" />
+      <module name="card-delivery.main" target="11" />
+      <module name="card-delivery.test" target="11" />
+      <module name="carddelivery" target="11" />
+      <module name="carddelivery.main" target="11" />
+      <module name="carddelivery.test" target="11" />
+      <module name="db" target="11" />
+      <module name="db.main" target="11" />
+      <module name="db.test" target="11" />
+      <module name="junit4-unit" target="11" />
+      <module name="junit4-unit.main" target="11" />
+      <module name="junit4-unit.test" target="11" />
+      <module name="junit5-unit" target="11" />
+      <module name="junit5-unit.main" target="11" />
+      <module name="junit5-unit.test" target="11" />
+      <module name="pageobject" target="11" />
+      <module name="pageobject.main" target="11" />
+      <module name="pageobject.test" target="11" />
+      <module name="rest" target="11" />
+      <module name="rest.main" target="11" />
+      <module name="rest.test" target="11" />
+      <module name="ru.netology.selenide" target="11" />
+      <module name="ru.netology.selenide.main" target="11" />
+      <module name="ru.netology.selenide.test" target="11" />
+      <module name="selenide" target="11" />
+      <module name="selenide.main" target="11" />
+      <module name="selenide.test" target="11" />
+      <module name="test-sample" target="11" />
+      <module name="test-sample.main" target="11" />
+      <module name="test-sample.test" target="11" />
+      <module name="testmode" target="11" />
+      <module name="testmode.main" target="11" />
+      <module name="testmode.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
